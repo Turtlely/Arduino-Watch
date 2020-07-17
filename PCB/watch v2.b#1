@@ -1476,7 +1476,7 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <attribute name="OC_NEWARK" value="unknown" x="2.54" y="27.94" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VALUE" x="0.508" y="29.21" size="0.6096" layer="27" font="vector" ratio="20" rot="R270"/>
 </element>
-<element name="R10" library="SparkFun-Resistors" package="0603" value="680" x="6.35" y="16.51" smashed="yes">
+<element name="R10" library="SparkFun-Resistors" package="0603" value="10k" x="6.35" y="16.51" smashed="yes">
 <attribute name="MF" value="" x="6.35" y="16.51" size="1.778" layer="27" display="off"/>
 <attribute name="MPN" value="" x="6.35" y="16.51" size="1.778" layer="27" display="off"/>
 <attribute name="NAME" x="6.35" y="17.272" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
@@ -1492,7 +1492,7 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <attribute name="PROD_ID" value="RES-00824" x="33.02" y="-7.62" size="1.778" layer="27" display="off"/>
 <attribute name="VALUE" x="10.16" y="27.178" size="0.6096" layer="27" font="vector" ratio="20" align="top-center"/>
 </element>
-<element name="R3" library="SparkFun-Resistors" package="0603" value="1.5k" x="9.017" y="11.303" smashed="yes" rot="MR0">
+<element name="R3" library="SparkFun-Resistors" package="0603" value=" " x="9.017" y="11.303" smashed="yes" rot="MR0">
 <attribute name="MF" value="" x="9.017" y="11.303" size="1.778" layer="28" rot="MR0" display="off"/>
 <attribute name="MPN" value="" x="9.017" y="11.303" size="1.778" layer="28" rot="MR0" display="off"/>
 <attribute name="NAME" x="9.017" y="12.065" size="0.6096" layer="26" font="vector" ratio="20" rot="MR0" align="bottom-center"/>
